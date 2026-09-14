@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+*.img
+*.bin
+*.itb
+*.ubi
+*.gz
+*.zip
+backups/
+private/
