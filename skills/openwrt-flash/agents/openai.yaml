@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenWrt 刷机与恢复"
+  short_description: "按精确型号选择 OpenWrt 安装、升级和恢复流程，核对固件并验证联网"
+  default_prompt: "使用 $openwrt-flash 识别我的路由器和存储介质，核实官方支持，备份后完成安装或升级并验证网络。"
